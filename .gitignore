@@ -21,6 +21,7 @@
 target
 .settings
 bin
+.settings
 .project
 
 
