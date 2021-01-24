@@ -1,2 +1,2 @@
 # Fuzzy-Logic
-Fuzzy Logic Code Example
+ Fuzzy Logic Code Example
